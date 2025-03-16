@@ -70,4 +70,4 @@ The model is built using **CNN (Convolutional Neural Networks)** with:
 ---
 
 ## **Contributors**  
-👤 **Your Name** -https://github.com/Bishaljay/AI-based-Fruits-and-Vegetables-Recognition-System.git
+👤 **Bishal Jaysawal** -https://github.com/Bishaljay/AI-based-Fruits-and-Vegetables-Recognition-System.git
